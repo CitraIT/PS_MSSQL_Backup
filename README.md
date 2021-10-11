@@ -3,4 +3,4 @@
 
 
 
-Powershell script to backup MSSQL Servers (even Express Edition) with a padronized manner to reduce RPO and RTO.
+![image](https://user-images.githubusercontent.com/91758384/136726620-f34e1755-58e9-4cc3-94ff-dae560b982ce.png)
